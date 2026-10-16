@@ -1,0 +1,15 @@
+{
+  "name": "claude-usage-buddy",
+  "description": "A small usage-meter mod for Claude Code.",
+  "owner": {
+    "name": "Surigoma001",
+    "url": "https://github.com/Surigoma001"
+  },
+  "plugins": [
+    {
+      "name": "usage-buddy",
+      "source": "./",
+      "description": "Claude-style mascot above the prompt showing 5-hour limit remaining and time to reset."
+    }
+  ]
+}

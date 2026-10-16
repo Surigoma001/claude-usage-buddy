@@ -1,0 +1,11 @@
+{
+  "name": "usage-buddy",
+  "version": "0.1.0",
+  "description": "A tiny Claude-style mascot above the prompt that shows your 5-hour limit remaining and time to reset (e.g. 93%/4h51m). Click to expand 5-hour, weekly and context usage. Built to stay 10 cells wide so it never wraps in narrow panes.",
+  "author": { "name": "Shun Inc.", "url": "https://github.com/Surigoma001" },
+  "homepage": "https://github.com/Surigoma001/claude-usage-buddy",
+  "repository": "https://github.com/Surigoma001/claude-usage-buddy",
+  "license": "MIT",
+  "keywords": ["usage", "rate-limit", "mascot", "status", "above-prompt", "mod"],
+  "types": "./types/index.d.ts"
+}
